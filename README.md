@@ -12,7 +12,7 @@ This project analyses bat monitoring sites in Australia with data collected in 2
 ```
 
 ## Data Availability
-The datasets used in the project is publicly available from the [Victorian Government](vic.gov.au) website. It is not included in the repository but you may find the links in the references.
+The datasets used in the project is publicly available from the [Victorian Government](https://www.vic.gov.au/) website. It is not included in the repository but you may find the links in the references.
 
 The dataset used in this project is publicly available and can be obtained from the original source
 
