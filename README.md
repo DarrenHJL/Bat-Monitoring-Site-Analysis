@@ -7,7 +7,7 @@ This project analyses bat monitoring sites in Australia with data collected in 2
 ```
 .
 ├── Bat Monitoring Site Analysis.Rmd  # Code
-├── Bat Monitoring Site Analysis.pdf    # Report
+├── Bat Monitoring Site Analysis.pdf  # Report
 └── README.md
 ```
 
